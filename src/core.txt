@@ -1,2 +1,3 @@
 Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor,
 # drop an unused branch
+# keep defaults in sync with the manifest
