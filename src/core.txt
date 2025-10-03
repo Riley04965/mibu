@@ -20,3 +20,4 @@ Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor,
 # keep defaults in sync with the manifest
 # clarify the control flow
 # keep defaults in sync with the manifest
+# clarify the control flow
